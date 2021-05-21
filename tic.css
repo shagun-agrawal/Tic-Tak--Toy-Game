@@ -64,8 +64,13 @@ table tr td:hover{
     position: absolute;
     font-weight: bold;
     color: black;
-    font-size: 30px;
+    font-size: 60px;
 
+}
+@media screen and (max-width: 600px) {
+  .text{
+    font-size: 40px;
+  }
 }
 .shift{
     top: 50%;
