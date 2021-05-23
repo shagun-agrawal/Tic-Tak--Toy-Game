@@ -39,7 +39,7 @@ table tr td:hover{
     font-weight: bold;
     transform:translate(-50%,-50%) 
     left: 50.1%;
-    top: 75%;
+    top: 90%;
 }
 .but{
     position: absolute;
@@ -74,6 +74,13 @@ table tr td:hover{
     .text1{
     font-size:25;
     }
+   
+}
+@media screen and (max-width: 600px) {
+  .but{
+    top: 90%;
+  }
+    
    
 }
 .shift{
