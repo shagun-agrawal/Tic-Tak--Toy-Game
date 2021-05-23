@@ -69,8 +69,14 @@ table tr td:hover{
 }
 @media screen and (max-width: 600px) {
   .text{
-    font-size: 40px;
+    font-size: 33px;
   }
+    .text1{
+    font-size:25;
+    }
+    .btn{
+    top:80%;
+    }
 }
 .shift{
     top: 50%;
