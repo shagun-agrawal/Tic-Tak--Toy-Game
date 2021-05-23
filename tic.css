@@ -53,7 +53,7 @@ table tr td:hover{
     font-weight: bold;
     transform: translate(-50%,-50%);
     left: 50.1%;
-    top:75%;
+    top:90%;
 
 }
 .text{
@@ -74,9 +74,7 @@ table tr td:hover{
     .text1{
     font-size:25;
     }
-    .btn{
-    top:80%;
-    }
+   
 }
 .shift{
     top: 50%;
